@@ -1,0 +1,12 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /dev
+
+dev:
+  name: Ha
+  age: 12
+  id: 223
+
+pageSize: 111
+devName: 113
